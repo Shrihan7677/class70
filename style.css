@@ -1,0 +1,30 @@
+body{
+text-align:center;
+}
+img{
+    width:1500px;
+    
+}
+.text-success text left text-capatalize{
+text-align: center;
+}
+p{
+    text-align: center;
+    margin-left: 350px;
+    font-size: 18px;
+}
+#chess{
+   width:700px; 
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    font-size: 20px;
+}
+
+#library{
+    width:350px;
+    margin-right: 1000px;
+} 
